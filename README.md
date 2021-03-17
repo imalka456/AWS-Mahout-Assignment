@@ -54,7 +54,7 @@ make
 ```
 + Copy hello.py
 
-https://github.com/DulanGit/AWS-Mahout-Assignment/blob/master/hello.py
+https://github.com/imalka456/AWS-Mahout-Assignment/blob/main/hello.py
 
 + Start the web service.
 ```bash
